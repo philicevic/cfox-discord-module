@@ -1,0 +1,13 @@
+{
+    "name": "philicevic/cfox-discord-module",
+    "type": "discord-bot",
+    "authors": [
+        {
+            "name": "Philipp Ehrenberg",
+            "email": "ehrenberg.ph@gmail.com"
+        }
+    ],
+    "require": {
+        "charlottedunois/yasmin": "^0.2.2"
+    }
+}
